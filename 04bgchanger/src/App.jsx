@@ -10,7 +10,7 @@ function App() {
     <div
       className="w-screen h-screen duration-200"
       style={{ backgroundColor: color }}
-    >ldd</div>
+    >BG</div>
   );
 }
 
